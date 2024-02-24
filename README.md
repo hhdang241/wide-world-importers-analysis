@@ -1,13 +1,15 @@
 # Wide World Importers - Product Analysis
 ## Wide World Importers
 
-WWI is a wholesale novelty goods importer and distributor operating from the San Francisco bay area.
+Wide World Importers is a wholesale novelty goods importer and distributor operating from the San Francisco bay area.
 
 ![](screenshots/home.gif)
 
-Here is the official link to the SQL [database](https://learn.microsoft.com/en-us/sql/samples/wide-world-importers-what-is?view=sql-server-ver16).
+Here is the official website to the SQL [database](https://learn.microsoft.com/en-us/sql/samples/wide-world-importers-what-is?view=sql-server-ver16).
 
 To better understand the dataset, check [here](https://dataedo.com/samples/html/WideWorldImporters/doc/WideWorldImporters_5/views/Website_Customers_3842.html).
+
+You can view the completed interactive dashboard [here]([https://dataedo.com/samples/html/WideWorldImporters/doc/WideWorldImporters_5/views/Website_Customers_3842.html](https://app.powerbi.com/Redirect?action=OpenReport&appId=a5dbe13f-47d2-4e73-935d-cfaed18f77d8&reportObjectId=95a24616-dc45-4395-9c59-59aa7a57800c&ctid=40127cd4-45f3-49a3-b05d-315a43a9f033&reportPage=ReportSection&pbi_source=appShareLink&portalSessionId=8163b82f-bdac-43dd-ae34-c082bda8f589)).
 
 ## Approach
 
@@ -21,15 +23,23 @@ To better understand the dataset, check [here](https://dataedo.com/samples/html/
  
 5. The complete dashboard features three pages via sidebar navigation buttons, modular visualizations via filter parameters, and hover tooltips on most graphics and text boxes.
 
+![](screenshots/home.png)
+
 ## Data Insights
+
+![](screenshots/candy.png)
 
 **New products - New priorities:** In 2016, we added 7 new products in a brand new Candy category. We may need to reconsider how we chose to allocate our resources. It's likely that our ad spend, human resources, and social media efforts were redistributed to promote this new array of products. As proven by our steep decline, our current arrangement is unsustainable.
 
 - Is the new Candy category spreading our resources too thin?
 
+![](screenshots/profits.gif)
+
 **Q3 is crucial**: One key point to note about our metrics is that they've been calculated based only on the first two quarters of 2016, but all four quarters of previous years. This only partially excuses our sales sums. We are still seeing downward trends in all product categories - the steepest we've seen thus far.
 
 Identifying problem areas such as our dismal unit margin or a lack of resources in other key departments is pivotal for 3rd and 4th quarter improvement. *(see Line Chart)*
+
+![](screenshots/usb.png)
 
 **Our contribution margins aren't contributing enough**: The standard markup for individual retail products is 50%. In previous years, we've exceeded that number at an average margin of 54%. In 2016, we averaged a troublesome 25%.
 
