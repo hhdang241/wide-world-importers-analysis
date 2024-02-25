@@ -3,7 +3,7 @@
 
 Wide World Importers is a wholesale novelty goods importer and distributor operating from the San Francisco bay area.
 
-![](screenshots/home.gif)
+![](screenshots/home.png)
 
 Here is the official website to the SQL [database](https://learn.microsoft.com/en-us/sql/samples/wide-world-importers-what-is?view=sql-server-ver16).
 
@@ -23,7 +23,7 @@ You can view the completed interactive dashboard [here](https://dataedo.com/samp
  
 5. The complete dashboard features three pages via sidebar navigation buttons, modular visualizations via filter parameters, and hover tooltips on most graphics and text boxes.
 
-![](screenshots/home.png)
+![](screenshots/home.gif)
 
 ## Data Insights
 
