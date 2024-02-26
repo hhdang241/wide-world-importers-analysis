@@ -21,7 +21,7 @@ You can view the completed interactive dashboard [here](https://app.powerbi.com/
  
 4. Finally, the two dataframes were exported from SSMS and imported to Power BI.
  
-5. The complete dashboard features three pages via sidebar navigation buttons, modular visualizations via filter parameters, and hover tooltips on most graphics and text boxes.
+5. The completed dashboard features three pages via sidebar navigation buttons, modular visualizations via filter parameters, and hover tooltips on most graphics and text boxes.
 
 ![](screenshots/home.gif)
 
