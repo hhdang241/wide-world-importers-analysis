@@ -9,7 +9,7 @@ Here is the official website to the SQL [database](https://learn.microsoft.com/e
 
 To better understand the dataset, check [here](https://dataedo.com/samples/html/WideWorldImporters/doc/WideWorldImporters_5/views/Website_Customers_3842.html).
 
-You can view the completed interactive dashboard [here](https://app.powerbi.com/Redirect?action=OpenReport&appId=a5dbe13f-47d2-4e73-935d-cfaed18f77d8&reportObjectId=95a24616-dc45-4395-9c59-59aa7a57800c&ctid=40127cd4-45f3-49a3-b05d-315a43a9f033&reportPage=ReportSection&pbi_source=appShareLink&portalSessionId=8163b82f-bdac-43dd-ae34-c082bda8f589).
+You can view the completed interactive dashboard [here]([https://app.powerbi.com/Redirect?action=OpenReport&appId=a5dbe13f-47d2-4e73-935d-cfaed18f77d8&reportObjectId=95a24616-dc45-4395-9c59-59aa7a57800c&ctid=40127cd4-45f3-49a3-b05d-315a43a9f033&reportPage=ReportSection&pbi_source=appShareLink&portalSessionId=8163b82f-bdac-43dd-ae34-c082bda8f589](https://admin.onhandbi.com/#/user/report/TmpnMA==?tenant=ohbi_tenant)).
 
 ## Approach
 
